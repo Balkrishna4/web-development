@@ -6,7 +6,8 @@
 //let g=a+b*a;
 //console.log(g)
 
-let age=34;
+let age=34;                                            
+                                                    
 let status=(age>=18) ? 'I can vote ' :'cannot vote';
 console.log(status);
 
